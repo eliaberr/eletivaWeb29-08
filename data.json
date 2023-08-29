@@ -1,0 +1,8 @@
+{
+  "products":[
+    {"id":1,"name":"Monitor LG", "price":1000},
+    {"id":2,"name":"Processador Ryzen 5 5600x", "price":1500},
+    {"id":2,"name":"Mouse", "price":400}
+  ]
+  }
+
